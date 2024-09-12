@@ -4,7 +4,7 @@ This repository contain the resources for the PS4106 module running Fall 2024 at
 
 Use the following URL or the button below to launch this in a cloud hosted jupyter notebook. 
 
-https://mybinder.org/v2/gh/aleslab/PS4106_2024_25/master
+https://mybinder.org/v2/gh/j-ales/PS4106_2024_25/master
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/j-ales/PS4106_2024_25/master)
